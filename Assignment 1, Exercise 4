@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <string>
 using namespace std;
 
 void generateMultiplicationTable(int startRange, int endRange, int startTable, int endTable) {
